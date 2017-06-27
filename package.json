@@ -1,0 +1,12 @@
+{
+  "name": "layout",
+  "version": "1.0.0",
+  "description": "task layout",
+  "main": "index.js",
+  "scripts": {},
+  "author": "eugene",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
